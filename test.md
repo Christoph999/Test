@@ -18,7 +18,7 @@ output:
 
 text
 
-![Some text here.](../Test/pics/myimage.png?raw=true){width=400px}
+![Some text here.](pics/myimage.png?raw=true){width=400px}
 
 text
 
