@@ -1,0 +1,24 @@
+---
+title: "Untitled"
+author: "Myname"
+date: "5 April 2019"
+output:
+  html_document:
+    keep_md: yes
+    number_sections: yes
+    toc: yes
+    toc_depth: 2
+  pdf_document:
+    number_sections: yes
+    toc: yes
+    toc_depth: '2'
+---
+
+
+
+text
+
+![Some text here.](../Test/pics/myimage.png?raw=true){width=400px}
+
+text
+
